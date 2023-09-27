@@ -1,6 +1,6 @@
 package corejava.inhereitance;
 
-public class Theatre {
+class Theatre {
     public void movie(){
         System.out.println("vinnai thandi varuvaya");
     }

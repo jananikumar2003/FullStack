@@ -13,7 +13,8 @@ public class Pets implements cat,dog,birds {
     }
 
     @Override
-    public void bark() {
+    public void bark()
+    {
         System.out.println("dogs are barking");
     }
 

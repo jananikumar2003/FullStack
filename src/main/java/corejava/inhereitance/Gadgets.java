@@ -5,7 +5,8 @@ public class Gadgets extends Theatre implements Tv,Speaker{
         System.out.println("all are electronics");
     }
     @Override
-    public void sound() {
+    public void sound()
+    {
         System.out.println("the sound is from speaker");
     }
 
